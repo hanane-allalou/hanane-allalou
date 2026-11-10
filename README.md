@@ -75,24 +75,6 @@ Mes expériences chez **Bouygues Telecom** et **Commeett** m'ont permis de trava
 
 ---
 
-## 🚀 Projets
-
-### 🍵 TipTop — Application Full-Stack
-
-**Technologies :** PHP · Symfony · JavaScript · SQL
-
-Modernisation d'une application web avec une attention particulière portée à l'architecture backend, à la maintenabilité et à la qualité du code.
-
-🚧 *Projet en cours d'amélioration.*
-
-### 🤖 Intelligence artificielle & développement logiciel
-
-Exploration de l'intégration des modèles de langage (LLM) et des agents IA dans des applications web.
-
-🚧 *Projets en préparation.*
-
----
-
 ## 💼 Expériences professionnelles
 
 ### 🟣 Développeuse Backend | Bouygues Telecom
@@ -143,23 +125,9 @@ Je m'intéresse particulièrement à l'évolution du développement logiciel et 
 - 🧠 **LLM** — Compréhension des modèles de langage
 - 🤖 **Agents IA** — Exploration des systèmes agentiques
 - 🔗 **Intégration de l'IA** — Applications web intelligentes
-- ☁️ **Cloud & DevOps** — Déploiement et automatisation
-- 🏗️ **Architecture logicielle** — Conception d'applications évolutives
 
 ---
 
-## 🎓 Formation
-
-**🎓 Mastère 2 — Lead Developer Full-Stack**  
-École PMN | 2025 – 2026
-
-**🎓 MBA 3 — Expert en Stratégie et Transformation Digitale**  
-Digital School of Paris | 2022 – 2025
-
-**🎓 Licence Informatique**  
-Université de Caen Normandie | 2019 – 2022
-
----
 
 <div align="center">
 
