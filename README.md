@@ -2,13 +2,15 @@
 
 # Hi there, I'm Hanane! 👋
 
-### 💜 Full-Stack Developer | Software Engineer
+### 💜 Full-Stack Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=PHP+%26+Symfony+Developer;Building+Scalable+Web+Applications;Exploring+AI+Agents+%26+LLMs;Clean+Code+%7C+Architecture+%7C+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=PHP+%26+Symfony+Developer;Angular+%26+TypeScript;Software+Engineering+%26+Clean+Code;Exploring+AI+Agents+%26+LLMs" alt="Typing animation" />
 
 <br/>
 
-*Passionate about building meaningful software and exploring new technologies.*
+**Building reliable software. Exploring intelligent systems.**
+
+📍 Paris, France
 
 </div>
 
@@ -16,16 +18,18 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** with professional experience in designing, developing and maintaining web applications.
+I'm a **Full-Stack Developer with 4 years of professional experience** in web application development, specializing in **PHP/Symfony, REST APIs, and modern frontend technologies**.
 
-I enjoy solving complex problems, improving existing systems and building clean, maintainable software.
+My experience at **Bouygues Telecom** and **Commeett** has allowed me to work on complex business applications, backend development, automated testing, and continuous improvement of existing systems.
 
-- 💻 Specialized in **PHP, Symfony & JavaScript**
-- 🏗️ Interested in **Software Architecture, Clean Code & Design Patterns**
-- 🚀 Experienced in **Full-Stack Development & Agile Environments**
-- 🤖 Exploring **Generative AI, LLMs & Agentic AI**
-- ☁️ Expanding my knowledge in **Cloud & DevOps**
-- 🎯 Always learning, building and improving
+I enjoy understanding how systems work, solving technical challenges, and writing clean, maintainable code.
+
+- 💻 Specialized in **PHP, Symfony & Angular**
+- 🏗️ Interested in **Software Architecture & Design Patterns**
+- 🧪 Focused on **Code Quality, Testing & CI/CD**
+- 🤖 Currently exploring **Generative AI, LLMs & AI Agents**
+- ☁️ Expanding my knowledge of **Cloud & DevOps**
+- 🎯 Passionate about continuous learning and technical challenges
 
 ---
 
@@ -33,48 +37,41 @@ I enjoy solving complex problems, improving existing systems and building clean,
 
 <div align="center">
 
-### Backend Development
+### 💜 Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend Development
+### 🎨 Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Tools
+### ⚙️ DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+### 🧪 Testing & Quality
 
----
-
-## 🚀 What I'm Currently Exploring
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | ☁️ Cloud & DevOps | 🏗️ Software Engineering |
-|:---:|:---:|:---:|
-| Large Language Models | AWS Cloud | Clean Architecture |
-| AI Agents | CI/CD Automation | Design Patterns |
-| Agentic Workflows | Docker & Kubernetes | Scalable Applications |
-| AI Integration | Monitoring | Code Quality |
+![Behat](https://img.shields.io/badge/Behat-8A2BE2?style=for-the-badge)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6A0DAD?style=for-the-badge)
 
 </div>
 
@@ -82,49 +79,110 @@ I enjoy solving complex problems, improving existing systems and building clean,
 
 ## 💼 Professional Experience
 
-### 💜 Full-Stack Developer — Bouygues Telecom
+### 🟣 Backend Developer | Bouygues Telecom
+**October 2024 – October 2026**
 
-Worked on the development and evolution of web applications in a professional Agile environment.
+`PHP` `Symfony` `Ibexa DXP` `Automated Testing` `Agile`
 
-**Key areas:**
+- Developed and maintained backend components for business applications.
+- Customized Ibexa DXP back-office features using PHP/Symfony.
+- Implemented automated tests using Robot Framework.
+- Worked on custom content features and YAML migrations.
+- Collaborated with Agile teams to deliver and improve application features.
 
-- Development and maintenance of PHP/Symfony applications
-- Implementation of new features and improvement of existing functionalities
-- Working with legacy codebases and complex business logic
-- Collaboration with cross-functional teams
-- Code quality, debugging and application maintenance
+<br/>
+
+### 🟣 Full-Stack Developer | Commeett
+**September 2022 – September 2024**
+
+`PHP` `Symfony` `Angular` `Vue.js` `REST APIs` `RabbitMQ`
+
+- Developed and improved responsive web interfaces.
+- Integrated backend services through REST APIs.
+- Optimized a RabbitMQ consumer for backend data processing.
+- Implemented automated tests using Behat.
+- Improved applications based on user feedback.
 
 ---
 
-## 🌟 Featured Projects
+## 🧠 Engineering Mindset
 
-### 🍵 TipTop — Full-Stack Web Application
+<div align="center">
 
-A full-stack application focused on modern web development practices.
+| 🏗️ Software Engineering | 🧪 Quality & Automation | 🚀 Continuous Improvement |
+|:---:|:---:|:---:|
+| Software Architecture | Automated Testing | Code Refactoring |
+| Design Patterns | CI/CD | Performance Optimization |
+| REST API Design | Code Quality | Technical Problem Solving |
+| Maintainable Code | Agile Practices | Learning New Technologies |
 
-**Technologies:** PHP, Symfony, JavaScript, SQL
+</div>
 
-*Currently improving the architecture and backend.*
+---
 
-### 🤖 AI-Powered Applications
+## 🤖 Currently Exploring
 
-Exploring how to integrate LLMs and AI agents into real-world applications.
+I'm particularly interested in the intersection of
+**Software Engineering and Artificial Intelligence**.
 
-**Focus:** Python, LLMs, Agentic AI, API Integration
+My current learning interests include:
 
-*Projects in progress.*
+- 🧠 **Large Language Models (LLMs)**
+- 🤖 **AI Agents & Agentic Workflows**
+- 🔗 **AI Integration into Web Applications**
+- ☁️ **Cloud Computing & DevOps**
+- 🏗️ **Scalable Software Architecture**
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🍵 TipTop — Full-Stack Application
+
+**PHP · Symfony · JavaScript · SQL**
+
+Modernizing a full-stack application with a focus on backend architecture, maintainability, and code quality.
+
+*🚧 Currently being improved*
+
+<br/>
+
+### 🤖 AI & Software Engineering Projects
+
+Exploring the development of intelligent applications combining
+web technologies, LLMs, and AI agents.
+
+*🚧 Coming soon*
+
+</div>
+
+---
+
+## 🎓 Education
+
+**🎓 Master's Level — Lead Developer Full-Stack**  
+École PMN | 2025 – 2026
+
+**🎓 MBA 3 — Digital Strategy & Transformation**  
+Digital School of Paris | 2022 – 2025
+
+**🎓 Bachelor's Degree — Computer Science**  
+Université de Caen Normandie | 2019 – 2022
 
 ---
 
 <div align="center">
 
-### 💜 Let's Connect!
+## 💜 Let's Connect!
 
-*Always open to discussing software engineering, innovative projects and new opportunities.*
+I'm always interested in discussing software engineering,
+innovative technologies, and new opportunities.
 
 <br/>
 
-**Thanks for visiting! ✨**
+**Thanks for visiting my profile! ✨**
 
 *Keep learning. Keep building. Keep evolving.*
 
