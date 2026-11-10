@@ -160,19 +160,6 @@ web technologies, LLMs, and AI agents.
 
 ---
 
-## 🎓 Education
-
-**🎓 Master's Level — Lead Developer Full-Stack**  
-École PMN | 2025 – 2026
-
-**🎓 MBA 3 — Digital Strategy & Transformation**  
-Digital School of Paris | 2022 – 2025
-
-**🎓 Bachelor's Degree — Computer Science**  
-Université de Caen Normandie | 2019 – 2022
-
----
-
 <div align="center">
 
 ## 💜 Let's Connect!
