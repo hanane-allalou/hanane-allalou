@@ -25,7 +25,7 @@ Mes expériences chez **Bouygues Telecom** et **Commeett** m'ont permis de trava
 - 💻 **Développement :** PHP, Symfony, Angular, JavaScript et TypeScript
 - 🏗️ **Architecture :** conception logicielle, maintenabilité et bonnes pratiques
 - 🧪 **Qualité :** tests automatisés, CI/CD et amélioration continue
-- 🤖 **IA :** découverte des LLM et des systèmes multi-agents
+- 🤖 **Intelligence artificielle :** utilisation de GitHub Copilot en environnement professionnel chez Bouygues Telecom, exploration des LLM et de l'IA agentique.
 - ☁️ **Cloud & DevOps :** approfondissement de mes compétences
 - 🎯 **Objectif :** contribuer à des projets techniques stimulants et innovants
 
@@ -140,6 +140,5 @@ des nouvelles technologies et des opportunités professionnelles.
 
 **Merci de votre visite ! ✨**
 
-*Apprendre. Concevoir. Développer. Évoluer.*
 
 </div>
