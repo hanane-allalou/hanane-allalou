@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Hanane! 👋
+# 👋 Bonjour, moi c'est Hanane !
 
-### 💜 Full-Stack Software Developer
+### 💜 Développeuse Full-Stack | PHP • Symfony • Angular
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=PHP+%26+Symfony+Developer;Angular+%26+TypeScript;Software+Engineering+%26+Clean+Code;Exploring+AI+Agents+%26+LLMs" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=D%C3%A9veloppeuse+Full-Stack;PHP+%26+Symfony+%7C+Angular+%26+TypeScript;Architecture+logicielle+%26+Clean+Code;Exploration+des+LLM+%26+Agents+IA" alt="Animation de présentation" />
 
 <br/>
 
-**Building reliable software. Exploring intelligent systems.**
+**Concevoir des applications fiables. Explorer les technologies de demain.**
 
 📍 Paris, France
 
@@ -16,24 +16,22 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 À propos de moi
 
-I'm a **Full-Stack Developer with 4 years of professional experience** in web application development, specializing in **PHP/Symfony, REST APIs, and modern frontend technologies**.
+Développeuse **Full-Stack avec 4 ans d'expérience en alternance**, je suis spécialisée dans le développement d'applications web avec **PHP/Symfony**, la conception d'**API REST** et les technologies frontend.
 
-My experience at **Bouygues Telecom** and **Commeett** has allowed me to work on complex business applications, backend development, automated testing, and continuous improvement of existing systems.
+Mes expériences chez **Bouygues Telecom** et **Commeett** m'ont permis de travailler sur des applications métier, de contribuer à leur évolution et de développer mes compétences en qualité logicielle et en tests automatisés.
 
-I enjoy understanding how systems work, solving technical challenges, and writing clean, maintainable code.
-
-- 💻 Specialized in **PHP, Symfony & Angular**
-- 🏗️ Interested in **Software Architecture & Design Patterns**
-- 🧪 Focused on **Code Quality, Testing & CI/CD**
-- 🤖 Currently exploring **Generative AI, LLMs & AI Agents**
-- ☁️ Expanding my knowledge of **Cloud & DevOps**
-- 🎯 Passionate about continuous learning and technical challenges
+- 💻 **Développement :** PHP, Symfony, Angular, JavaScript et TypeScript
+- 🏗️ **Architecture :** conception logicielle, maintenabilité et bonnes pratiques
+- 🧪 **Qualité :** tests automatisés, CI/CD et amélioration continue
+- 🤖 **IA :** découverte des LLM et des systèmes multi-agents
+- ☁️ **Cloud & DevOps :** approfondissement de mes compétences
+- 🎯 **Objectif :** contribuer à des projets techniques stimulants et innovants
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Compétences techniques
 
 <div align="center">
 
@@ -42,7 +40,7 @@ I enjoy understanding how systems work, solving technical challenges, and writin
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-8A2BE2?style=for-the-badge)
 
 ### 🎨 Frontend
 
@@ -54,12 +52,12 @@ I enjoy understanding how systems work, solving technical challenges, and writin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Bases de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Outils
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -67,7 +65,7 @@ I enjoy understanding how systems work, solving technical challenges, and writin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🧪 Testing & Quality
+### 🧪 Tests & Qualité
 
 ![Behat](https://img.shields.io/badge/Behat-8A2BE2?style=for-the-badge)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
@@ -77,100 +75,103 @@ I enjoy understanding how systems work, solving technical challenges, and writin
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Projets
 
-### 🟣 Backend Developer | Bouygues Telecom
-**October 2024 – October 2026**
+### 🍵 TipTop — Application Full-Stack
 
-`PHP` `Symfony` `Ibexa DXP` `Automated Testing` `Agile`
+**Technologies :** PHP · Symfony · JavaScript · SQL
 
-- Developed and maintained backend components for business applications.
-- Customized Ibexa DXP back-office features using PHP/Symfony.
-- Implemented automated tests using Robot Framework.
-- Worked on custom content features and YAML migrations.
-- Collaborated with Agile teams to deliver and improve application features.
+Modernisation d'une application web avec une attention particulière portée à l'architecture backend, à la maintenabilité et à la qualité du code.
 
-<br/>
+🚧 *Projet en cours d'amélioration.*
 
-### 🟣 Full-Stack Developer | Commeett
-**September 2022 – September 2024**
+### 🤖 Intelligence artificielle & développement logiciel
 
-`PHP` `Symfony` `Angular` `Vue.js` `REST APIs` `RabbitMQ`
+Exploration de l'intégration des modèles de langage (LLM) et des agents IA dans des applications web.
 
-- Developed and improved responsive web interfaces.
-- Integrated backend services through REST APIs.
-- Optimized a RabbitMQ consumer for backend data processing.
-- Implemented automated tests using Behat.
-- Improved applications based on user feedback.
+🚧 *Projets en préparation.*
 
 ---
 
-## 🧠 Engineering Mindset
+## 💼 Expériences professionnelles
 
-<div align="center">
+### 🟣 Développeuse Backend | Bouygues Telecom
 
-| 🏗️ Software Engineering | 🧪 Quality & Automation | 🚀 Continuous Improvement |
+**Octobre 2024 – Octobre 2026**
+
+`PHP` `Symfony` `Ibexa DXP` `Tests automatisés` `Agile`
+
+- Conception et développement de composants backend en PHP/Symfony.
+- Développement et évolution de fonctionnalités du back-office Ibexa DXP.
+- Personnalisation de contenus et réalisation de migrations YAML.
+- Participation à la mise en place de tests automatisés avec Robot Framework.
+- Collaboration au sein d'une équipe Agile.
+
+<br/>
+
+### 🟣 Développeuse Full-Stack | Commeett
+
+**Septembre 2022 – Septembre 2024**
+
+`PHP` `Symfony` `Angular` `Vue.js` `API REST` `RabbitMQ`
+
+- Développement et amélioration d'interfaces web responsives.
+- Intégration de services backend via des API REST.
+- Optimisation d'un consommateur RabbitMQ pour le traitement des données.
+- Mise en place de tests automatisés avec Behat.
+- Amélioration continue des applications à partir des retours utilisateurs.
+
+---
+
+## 🧠 Ma vision du développement logiciel
+
+Pour moi, développer une application ne consiste pas uniquement à écrire du code fonctionnel. Il s'agit aussi de concevoir des solutions **maintenables, testables et évolutives**.
+
+| 🏗️ Conception logicielle | 🧪 Qualité & Automatisation | 🚀 Amélioration continue |
 |:---:|:---:|:---:|
-| Software Architecture | Automated Testing | Code Refactoring |
-| Design Patterns | CI/CD | Performance Optimization |
-| REST API Design | Code Quality | Technical Problem Solving |
-| Maintainable Code | Agile Practices | Learning New Technologies |
-
-</div>
+| Architecture logicielle | Tests automatisés | Refactoring |
+| Design Patterns | CI/CD | Optimisation des performances |
+| Conception d'API REST | Qualité du code | Résolution de problèmes |
+| Code maintenable | Méthodes Agile | Veille technologique |
 
 ---
 
-## 🤖 Currently Exploring
+## 🤖 Ce que j'explore actuellement
 
-I'm particularly interested in the intersection of
-**Software Engineering and Artificial Intelligence**.
+Je m'intéresse particulièrement à l'évolution du développement logiciel et aux nouvelles possibilités offertes par l'intelligence artificielle.
 
-My current learning interests include:
-
-- 🧠 **Large Language Models (LLMs)**
-- 🤖 **AI Agents & Agentic Workflows**
-- 🔗 **AI Integration into Web Applications**
-- ☁️ **Cloud Computing & DevOps**
-- 🏗️ **Scalable Software Architecture**
+- 🧠 **LLM** — Compréhension des modèles de langage
+- 🤖 **Agents IA** — Exploration des systèmes agentiques
+- 🔗 **Intégration de l'IA** — Applications web intelligentes
+- ☁️ **Cloud & DevOps** — Déploiement et automatisation
+- 🏗️ **Architecture logicielle** — Conception d'applications évolutives
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Formation
 
-<div align="center">
+**🎓 Mastère 2 — Lead Developer Full-Stack**  
+École PMN | 2025 – 2026
 
-### 🍵 TipTop — Full-Stack Application
+**🎓 MBA 3 — Expert en Stratégie et Transformation Digitale**  
+Digital School of Paris | 2022 – 2025
 
-**PHP · Symfony · JavaScript · SQL**
-
-Modernizing a full-stack application with a focus on backend architecture, maintainability, and code quality.
-
-*🚧 Currently being improved*
-
-<br/>
-
-### 🤖 AI & Software Engineering Projects
-
-Exploring the development of intelligent applications combining
-web technologies, LLMs, and AI agents.
-
-*🚧 Coming soon*
-
-</div>
+**🎓 Licence Informatique**  
+Université de Caen Normandie | 2019 – 2022
 
 ---
 
 <div align="center">
 
-## 💜 Let's Connect!
+## 💜 Restons en contact !
 
-I'm always interested in discussing software engineering,
-innovative technologies, and new opportunities.
+Ouverte aux échanges autour du développement logiciel,
+des nouvelles technologies et des opportunités professionnelles.
 
 <br/>
 
-**Thanks for visiting my profile! ✨**
+**Merci de votre visite ! ✨**
 
-*Keep learning. Keep building. Keep evolving.*
+*Apprendre. Concevoir. Développer. Évoluer.*
 
 </div>
